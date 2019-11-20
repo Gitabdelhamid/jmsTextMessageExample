@@ -1,0 +1,2 @@
+# jmsTextMessageExample
+spring messaging
